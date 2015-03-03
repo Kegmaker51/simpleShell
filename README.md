@@ -15,7 +15,7 @@ attempts to fork and exec the command.
 
 LIMITATIONS:
 
-My shell is a bit heavy on the memory usage end of things. It also
+simpleShell is a bit heavy on the memory usage end of things. It also
 can only handle commands of up to 1024 (Not including null terminating
 character) characters. It also cannot handle the following number of
 history items SO PLEASE DO NOT USE THEM OR EVERYTHING WILL BREAK:
