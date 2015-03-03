@@ -4,7 +4,7 @@ Completed For CS243 @ RIT
 
 DESIGN:
 
-myshell handles user input through getopt and getline. I use a loop in
+simpleShell handles user input through getopt and getline. I use a loop in
 conjunction with getopt to make sure that all of the arguments passed
 at the startup of the shell are correct. From there getline is used
 to pull the lines that the user types into stdin so that they may then
